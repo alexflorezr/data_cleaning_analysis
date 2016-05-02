@@ -1,0 +1,9 @@
+Codebook
+Variables names
+	subject: indicates the index of the subject preforming the activity
+	activity: String indicating the activity performed by the subject
+	measurements variables: as in the raw data (see Note**)
+	
+**Note:	
+	All the measurements variables names were modified to remove the "()"
+	 
